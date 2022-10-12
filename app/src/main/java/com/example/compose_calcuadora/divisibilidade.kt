@@ -1,5 +1,6 @@
 package com.example.compose_calcuadora
 
+
 fun isDivivible(a: Int, b: Int) = a % b == 0
 
 fun eDivisivelporDois(valor: Int) = isDivivible(valor, 2)
