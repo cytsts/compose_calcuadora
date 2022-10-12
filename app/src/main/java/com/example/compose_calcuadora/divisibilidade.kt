@@ -2,14 +2,23 @@ package com.example.compose_calcuadora
 
 fun isDivivible(a: Int, b: Int) = a % b == 0
 
-
 fun eDivisivelporDois(valor: Int) = isDivivible(valor, 2)
+
 fun eDivisivelporTres(valor: Int) = isDivivible(valor, 3)
 
+fun eDivisivelporCinco(valor: Int) = isDivivible(valor, 5)
 
+fun eDivisivelporSete(valor: Int) = isDivivible(valor, 7)
 
+fun eDivisivelporOnze(valor: Int) = isDivivible(valor, 11)
 
+fun eDivisivelporSeis(valor: Int) = isDivivible(valor, 6)
 
+fun eDivisivelporDez(valor: Int) = isDivivible(valor, 10)
+
+fun eDivisivelporQuatro(valor: Int) = isDivivible(valor, 4)
+
+fun eDivisivelporNove(valor: Int) = isDivivible(valor, 9)
 
 
 /*
