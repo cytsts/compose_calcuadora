@@ -67,7 +67,9 @@ fun media2(vararg valores: Double): Double {
         soma += valor
     }
     return soma / valores.size
+
 }
+
 /*
   Uma função que some dois numeros
   Uma função que subtrais dois numeros
